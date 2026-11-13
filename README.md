@@ -121,6 +121,4 @@ The application will open in your browser.
 - Better handling of complex research papers.
 - Additional viva practice and evaluation features.
 
-## Author
 
-Developed as an academic project to explore Agentic AI, Large Language Models, Retrieval-Augmented Generation and multi-agent systems.
